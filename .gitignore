@@ -1,0 +1,21 @@
+**/.DS_Store
+**/__MACOS__
+**/__pypackages__
+**/__pycache__
+**/*.pyc
+**/*.o
+**/*.out
+**/*.bak
+**/~*
+**/.venv
+**/.vscode
+**/.Rhistory
+**/.ipynb_checkpoints
+2022 ASRI Student Packet.docx
+2022 ASRI schedule.xlsx
+"Repository assignments.xlsx"
+Student_Datasets
+auto-mpg.data
+pdm.lock
+pyproject.toml
+**/*log
