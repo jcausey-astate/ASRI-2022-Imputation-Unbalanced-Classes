@@ -19,3 +19,4 @@ auto-mpg.data
 pdm.lock
 pyproject.toml
 **/*log
+**/*.zip
